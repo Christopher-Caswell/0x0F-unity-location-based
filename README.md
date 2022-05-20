@@ -7,5 +7,6 @@
 Gaze upon this link and tremble at the mighty Christmas Cryptid!
 
 https://bit.ly/3wAU99P
-image.png
-image.png
+![image](https://user-images.githubusercontent.com/72669396/169464106-8b7f15db-a512-4d4c-8582-3c16c53ba996.png)
+![image](https://user-images.githubusercontent.com/72669396/169464123-5c9a8275-eea5-4521-9695-b4dc2465ac26.png)
+
